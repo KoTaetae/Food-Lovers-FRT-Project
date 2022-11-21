@@ -1823,4 +1823,17 @@ p.date {
 	}
 }
 
+.input{
+	width: 100%;
+	outline: none;
+	border:none;
+}
+
+#btn{
+	width: 150px;
+	padding: 6px;
+	cursor: pointer;
+}
+
+
 /*-- //Responsive Design --*/
