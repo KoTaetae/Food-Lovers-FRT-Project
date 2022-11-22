@@ -16,7 +16,7 @@ https://documenter.getpostman.com/view/19682434/2s8YsnWFdz
 
 
 #About Project:-
-“*”I have created a website named "Food Lovers" static - food website using static web apps azure services. Here, customers can "Subscribe to our NewsLetter" in "Home Page" and in "Contact Page" customer can personally contact via E-mail : foodlovers141036@gmail.com.
+*I have created a website named "Food Lovers" static - food website using static web apps azure services. Here, customers can "Subscribe to our NewsLetter" in "Home Page" and in "Contact Page" customer can personally contact via E-mail : foodlovers141036@gmail.com.
 
 
 
