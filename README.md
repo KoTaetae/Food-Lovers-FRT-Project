@@ -40,12 +40,15 @@ Main Page :-
 Services Page :- 
 
 
+![services](https://user-images.githubusercontent.com/110100411/203401614-f620961c-f9ac-4887-ae57-de8c8272a32a.png)
+
+
 
 
 
 Error Page :-
 
-
+![error](https://user-images.githubusercontent.com/110100411/203401626-8ed4edec-5862-4c72-be40-f6345d460747.png)
 
 
 
@@ -53,12 +56,14 @@ Food Menu Page :-
 
 
 
+![food gallery](https://user-images.githubusercontent.com/110100411/203401676-a5f03fdd-6398-4863-ad7b-881624bd965d.png)
+
 
 
 Contact Page :-
 
 
-
+![wp-4](https://user-images.githubusercontent.com/110100411/203401814-bc185e92-f23b-4d09-b89e-596833fa17db.png)
 
 
 
