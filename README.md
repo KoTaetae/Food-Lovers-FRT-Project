@@ -56,19 +56,37 @@ Contact Page :-
 
 
 
-Customers can easily send their queries to "Food Lovers" if customers found any issues in "Food Lovers" services, food quality, hygine, delivery (online | offline), taste etc via "Food Lovers" E-mail!
+#Customers can easily send their queries to "Food Lovers" if customers found any issues in "Food Lovers" services, food quality, hygine, delivery (online | offline), taste etc via "Food Lovers" E-mail!
+
+
+#Customers sending their queries and problems to "Food Lovers"
+
+#Customer through E-Mail:-
+
+![gmail-customer](https://user-images.githubusercontent.com/110100411/203407161-14b3b111-a2e1-471e-a02d-20aacae10902.png)
+
+#Customer through Outlook:-
+
+![outlook-customer](https://user-images.githubusercontent.com/110100411/203407175-3e424d91-dbb9-444f-a3f5-d6e5f7251e23.png)
+
+
+
+#When a customer finally send their query to "Food Lovers" then, for "Food Lovers" it will be a like of "Feedback from customer" whether it's positive or negative and on the basis of that "Food Lovers" will take action in order to improve their works in that field and try their best in order to resolve customer's query.
+
+
+
+
+
+#After when particular's customer query is resolved from "Food Lovers" side then, it will send an E-mail to that particular customer who sended "Food Lovers" that personal query E-mail stating that issue have been resolved from "Food Lovers" side using "Logic Apps" an azure sevcice and "POSTMAN".
 
 
 
 
 
 
-When a customer finally send their query to "Food Lovers" then, for "Food Lovers" it will be a like of "Feedback from customer" whether it's positive or negative and on the basis of that "Food Lovers" will take action in order to improve their works in that field and try their best in order to resolve customer's query.
+
+#When issue is resolved from "Food Lovers" side finally E-mail is received by customer from "Food Lovers"!
 
 
 
 
-
-
-
-After when particular's customer query is resolved from "Food Lovers" side then, it will send an E-mail to that particular customer who sended "Food Lovers" that personal query E-mail stating that issue have been resolved from "Food Lovers" side using "Logic Apps" an azure sevcice and "POSTMAN".
