@@ -112,4 +112,4 @@ Contact Page :-
 
 
 
-#This was my project - "Food Lovers" a food website where customers can explore varities of food ,regional food, varites in taste of menu and order food online | offline both service are available. Customers can also subscribe to NewsLetter in order to get latest updates from "Food Lovers" and customer can also send their personal queries / issues they are facing to "Food Lovers" personally and "Food Lovers" will provide the best optimize solution to that particular customer which can also provide benefit to other customers as well!
+#This was my project - "Food Lovers" a food website where customers can explore varities of food ,regional food, varites in taste of menu and order food online | offline both service are available. Customers can also subscribe to NewsLetter in order to get latest updates from "Food Lovers" and customer can also send their personal queries / issues they are facing with "Food Lovers" personally and "Food Lovers" will provide the best optimize solution to that particular customer which can also provide benefit to other customers as well!
