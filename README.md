@@ -79,14 +79,23 @@ Contact Page :-
 
 #After when particular's customer query is resolved from "Food Lovers" side then, it will send an E-mail to that particular customer who sended "Food Lovers" that personal query E-mail stating that issue have been resolved from "Food Lovers" side using "Logic Apps" an azure sevcice and "POSTMAN".
 
+#"Food Lovers" sending response to customer who sended the query from Gmail
+![foodlovers- gmail](https://user-images.githubusercontent.com/110100411/203408386-42925798-6d09-4074-83c9-86a3c6bf3ac3.png)
 
 
-
-
+#"Food Lovers" sending response to customer who sended the query from Outlook
+![foodlovers- outlook](https://user-images.githubusercontent.com/110100411/203408402-2cf1585a-2a7e-4e50-baeb-d02973a78ddc.png)
 
 
 #When issue is resolved from "Food Lovers" side finally E-mail is received by customer from "Food Lovers"!
 
+#Customer who sended the query from Gmail finally receving the solution from "Food Lovers"
+![foodlovers- outlook-response](https://user-images.githubusercontent.com/110100411/203408414-837019ed-c83c-4927-a7b6-e7d11054586c.png)
+
+
+
+#Customer who sended the query from Outlook finally receving the solution from "Food Lovers"
+![foodlovers- Gmail-response](https://user-images.githubusercontent.com/110100411/203408421-4020d125-875d-489f-87c9-8a374e18c594.png)
 
 
 
