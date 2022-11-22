@@ -33,11 +33,15 @@ Insights of "Food Lovers"
 
 Main Page :-
 
+
+
 ![wp-1](https://user-images.githubusercontent.com/110100411/203399639-cfe3e091-e044-4f24-9b4e-af92cc528d9e.png)
 
 
 
+
 Services Page :- 
+
 
 
 ![services](https://user-images.githubusercontent.com/110100411/203401614-f620961c-f9ac-4887-ae57-de8c8272a32a.png)
@@ -45,10 +49,12 @@ Services Page :-
 
 
 
-
 Error Page :-
 
+
+
 ![error](https://user-images.githubusercontent.com/110100411/203401626-8ed4edec-5862-4c72-be40-f6345d460747.png)
+
 
 
 
@@ -60,7 +66,9 @@ Food Menu Page :-
 
 
 
+
 Contact Page :-
+
 
 
 ![wp-4](https://user-images.githubusercontent.com/110100411/203401814-bc185e92-f23b-4d09-b89e-596833fa17db.png)
