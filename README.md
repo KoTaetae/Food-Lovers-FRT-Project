@@ -52,7 +52,9 @@ Services Page :-
 Error Page :-
 
 
-![error](https://user-images.githubusercontent.com/110100411/203402690-a120ba3c-d1cd-4c41-90ac-e577b2da187d.png)
+
+![error](https://user-images.githubusercontent.com/110100411/203403381-fe3c2f62-e7ce-4833-aedb-aebe17a7c74a.png)
+
 
 
 
@@ -62,7 +64,8 @@ Error Page :-
 Food Menu Page :-
 
 
-![food gallery](https://user-images.githubusercontent.com/110100411/203402697-557c29c5-fb61-4e07-a3e2-e99b2ec346dc.png)
+
+![food gallery](https://user-images.githubusercontent.com/110100411/203403401-6d87d2a8-7380-46a1-aa95-bb7795e02193.png)
 
 
 
