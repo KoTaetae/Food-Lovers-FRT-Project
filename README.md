@@ -29,50 +29,25 @@ I have created a website named "Food Lovers" and it's a static - food website us
 
 
 
-Insights of "Food Lovers" 
+#Insights of "Food Lovers" 
 
 Main Page :-
 
-
-
 ![wp-1](https://user-images.githubusercontent.com/110100411/203399639-cfe3e091-e044-4f24-9b4e-af92cc528d9e.png)
-
-
-
 
 Services Page :- 
 
-
-
 ![services](https://user-images.githubusercontent.com/110100411/203401614-f620961c-f9ac-4887-ae57-de8c8272a32a.png)
-
-
-
 
 Error Page :-
 
-
-
 ![error](https://user-images.githubusercontent.com/110100411/203403381-fe3c2f62-e7ce-4833-aedb-aebe17a7c74a.png)
-
-
-
-
-
-
 
 Food Menu Page :-
 
-
-
 ![food gallery](https://user-images.githubusercontent.com/110100411/203403401-6d87d2a8-7380-46a1-aa95-bb7795e02193.png)
 
-
-
-
 Contact Page :-
-
-
 
 ![wp-4](https://user-images.githubusercontent.com/110100411/203401814-bc185e92-f23b-4d09-b89e-596833fa17db.png)
 
@@ -80,8 +55,8 @@ Contact Page :-
 
 
 
-Customers can easily send their queries to "Food Lovers" if customers found any issues in "Food Lovers" services, food quality, hygine, delivery (online | offline), taste etc via "Food Lovers" E-mail!
 
+Customers can easily send their queries to "Food Lovers" if customers found any issues in "Food Lovers" services, food quality, hygine, delivery (online | offline), taste etc via "Food Lovers" E-mail!
 
 
 
