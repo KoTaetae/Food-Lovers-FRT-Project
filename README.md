@@ -53,8 +53,6 @@ Error Page :-
 
 
 
-![error](https://user-images.githubusercontent.com/110100411/203401626-8ed4edec-5862-4c72-be40-f6345d460747.png)
-
 
 
 
@@ -62,7 +60,6 @@ Food Menu Page :-
 
 
 
-![food gallery](https://user-images.githubusercontent.com/110100411/203401676-a5f03fdd-6398-4863-ad7b-881624bd965d.png)
 
 
 
