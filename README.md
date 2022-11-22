@@ -30,7 +30,35 @@ I have created a website named "Food Lovers" and it's a static - food website us
 
 
 Insights of "Food Lovers" 
+
+Main Page :-
+
 ![wp-1](https://user-images.githubusercontent.com/110100411/203399639-cfe3e091-e044-4f24-9b4e-af92cc528d9e.png)
+
+
+
+Services Page :- 
+
+
+
+
+
+Error Page :-
+
+
+
+
+
+Food Menu Page :-
+
+
+
+
+
+Contact Page :-
+
+
+
 
 
 
