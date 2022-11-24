@@ -86,6 +86,9 @@ Contact Page :-
 1) For Static Web App :-
 
 
+#Azure Deployment Link
+![link to deployment of food lovers from azure(static wp)](https://user-images.githubusercontent.com/110100411/203708061-e3e9bf58-3002-4eb8-a73b-d610b93ddd76.png)
+
 
 
 
@@ -93,6 +96,22 @@ Contact Page :-
 2) For Logic Apps Service :-
 
 
+#Logic App successful run history:-
+![logic-app-success-emailnotification](https://user-images.githubusercontent.com/110100411/203708105-5fb78cab-1d8b-4f6d-affe-0337d3795a8e.png)
+
+#Logic App Designer Request Body JSON Schema :-
+![logicappdesigner-pg-1](https://user-images.githubusercontent.com/110100411/203708127-6771c692-8037-4cd4-
+
+![logicappdesigner-pg-2](https://user-images.githubusercontent.com/110100411/203708145-0ca58066-3126-4da5-920d-47658504bb6a.png)
+a5b3-bff4ff0c0dc4.png)
+
+
+#Method Selected - POST :- 
+![logicappdesigner-pg-3](https://user-images.githubusercontent.com/110100411/203708185-3141e85b-519e-4174-b7e6-fde7e0ce0539.png)
+
+
+#Send E-mail(V2):-
+![logicappdesigner-pg-4](https://user-images.githubusercontent.com/110100411/203708200-a2fe8378-2141-41e4-af88-71827401387f.png)
 
 
 #"Food Lovers" sending response to customer who sended the query from Gmail
