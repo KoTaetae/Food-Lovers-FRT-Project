@@ -4,7 +4,7 @@
 
 
 
-#Azure Static Page Link of "Food Lovers" :- 
+#Azure Static Web App Link of "Food Lovers" :- 
 
 https://thankful-mushroom-0a1015010.2.azurestaticapps.net
 
@@ -78,6 +78,22 @@ Contact Page :-
 
 
 #After when particular's customer query is resolved from "Food Lovers" side then, it will send an E-mail to that particular customer who sended "Food Lovers" that personal query E-mail stating that issue have been resolved from "Food Lovers" side using "Logic Apps" an azure sevcice and "POSTMAN".
+
+
+
+#My Azure Resources:-
+
+1) For Static Web App :-
+
+
+
+
+
+
+2) For Logic Apps Service :-
+
+
+
 
 #"Food Lovers" sending response to customer who sended the query from Gmail
 
