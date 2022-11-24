@@ -101,6 +101,9 @@ Contact Page :-
 
 #Logic App Designer Request Body JSON Schema :-
 
+
+![logicappdesigner-pg-1](https://user-images.githubusercontent.com/110100411/203710572-760bec22-3574-4174-b941-f2df8c9e732a.png)
+
 ![logicappdesigner-pg-2](https://user-images.githubusercontent.com/110100411/203708145-0ca58066-3126-4da5-920d-47658504bb6a.png)
 
 
