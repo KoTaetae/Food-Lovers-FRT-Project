@@ -100,10 +100,9 @@ Contact Page :-
 ![logic-app-success-emailnotification](https://user-images.githubusercontent.com/110100411/203708105-5fb78cab-1d8b-4f6d-affe-0337d3795a8e.png)
 
 #Logic App Designer Request Body JSON Schema :-
-![logicappdesigner-pg-1](https://user-images.githubusercontent.com/110100411/203708127-6771c692-8037-4cd4-
 
 ![logicappdesigner-pg-2](https://user-images.githubusercontent.com/110100411/203708145-0ca58066-3126-4da5-920d-47658504bb6a.png)
-a5b3-bff4ff0c0dc4.png)
+
 
 
 #Method Selected - POST :- 
