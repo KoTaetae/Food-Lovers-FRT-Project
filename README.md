@@ -1,5 +1,5 @@
 # Food-Lovers-FRT-Project
-"It's my Future Ready Talent (FRT) Project "
+"It's my Future Ready Talent (FRT) Project ". I would also like to thank Microsoft Azure who gave me this golden opportunity to work on this Project! It also helped me to learn about Azure services and incresed my knowledge as well. 
 
 
 
@@ -61,11 +61,11 @@ Contact Page :-
 
 #Customers sending their queries and problems to "Food Lovers"
 
-#Customer through GMail:-
+#Customer sending their issues to "Food Lovers" through GMail:-
 
 ![gmail-customer](https://user-images.githubusercontent.com/110100411/203407161-14b3b111-a2e1-471e-a02d-20aacae10902.png)
 
-#Customer through Outlook:-
+#Customer sending their issues to "Food Lovers" through Outlook:-
 
 ![outlook-customer](https://user-images.githubusercontent.com/110100411/203407175-3e424d91-dbb9-444f-a3f5-d6e5f7251e23.png)
 
@@ -86,7 +86,7 @@ Contact Page :-
 1) For Static Web App :-
 
 
-#Azure Deployment Link
+#Azure Deployment Link:-
 ![link to deployment of food lovers from azure(static wp)](https://user-images.githubusercontent.com/110100411/203708061-e3e9bf58-3002-4eb8-a73b-d610b93ddd76.png)
 
 
