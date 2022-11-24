@@ -133,14 +133,14 @@ Contact Page :-
 
 
 
-#Customer who sended the query from Gmail finally receving the solution from "Food Lovers"
+#Customer who sended the query from Gmail finally receving the solution from "Food Lovers" through Azure Logic Apps and POSTMAN:-
 
 ![foodlovers- Gmail-response](https://user-images.githubusercontent.com/110100411/203408421-4020d125-875d-489f-87c9-8a374e18c594.png)
 
 
 
 
-#Customer who sended the query from Outlook finally receving the solution from "Food Lovers"
+#Customer who sended the query from Outlook finally receving the solution from "Food Lovers" through Azure Logic Apps and POSTMAN:-
 
 
 
