@@ -39,10 +39,6 @@ Services Page :-
 
 ![services](https://user-images.githubusercontent.com/110100411/203401614-f620961c-f9ac-4887-ae57-de8c8272a32a.png)
 
-Error Page :-
-
-![error](https://user-images.githubusercontent.com/110100411/203403381-fe3c2f62-e7ce-4833-aedb-aebe17a7c74a.png)
-
 Food Menu Page :-
 
 ![food gallery](https://user-images.githubusercontent.com/110100411/203403401-6d87d2a8-7380-46a1-aa95-bb7795e02193.png)
