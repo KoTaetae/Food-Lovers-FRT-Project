@@ -33,24 +33,25 @@ I have created a website named "Food Lovers" and it's a static - food website us
 
 Main Page :-
 
-![wp-1](https://user-images.githubusercontent.com/110100411/203399639-cfe3e091-e044-4f24-9b4e-af92cc528d9e.png)
+![chrome_zkV5GfIXGk](https://user-images.githubusercontent.com/110100411/204109919-9e9923e9-730a-4cca-b13b-b25db674b7ca.jpg)
+
+
 
 Services Page :- 
+![chrome_NPhoptk0op](https://user-images.githubusercontent.com/110100411/204109922-940a55fb-b186-4dfa-ae3e-b58498d0a866.png)
 
-![services](https://user-images.githubusercontent.com/110100411/203401614-f620961c-f9ac-4887-ae57-de8c8272a32a.png)
 
-Error Page :-
 
-![error](https://user-images.githubusercontent.com/110100411/203403381-fe3c2f62-e7ce-4833-aedb-aebe17a7c74a.png)
 
 Food Menu Page :-
+![chrome_8wXwO601lr](https://user-images.githubusercontent.com/110100411/204109927-b0c4960f-2b47-40a9-b4df-6ff799bc505c.png)
 
-![food gallery](https://user-images.githubusercontent.com/110100411/203403401-6d87d2a8-7380-46a1-aa95-bb7795e02193.png)
+
 
 Contact Page :-
 
-![wp-4](https://user-images.githubusercontent.com/110100411/203401814-bc185e92-f23b-4d09-b89e-596833fa17db.png)
 
+![chrome_EAO919Wj9o](https://user-images.githubusercontent.com/110100411/204109934-cfff51b7-f9d9-44f0-8514-2bd5102460ea.png)
 
 
 
