@@ -33,17 +33,26 @@ I have created a website named "Food Lovers" and it's a static - food website us
 
 Main Page :-
 
+![chrome_zkV5GfIXGk](https://user-images.githubusercontent.com/110100411/204109919-9e9923e9-730a-4cca-b13b-b25db674b7ca.jpg)
+
 
 
 Services Page :- 
+![chrome_NPhoptk0op](https://user-images.githubusercontent.com/110100411/204109922-940a55fb-b186-4dfa-ae3e-b58498d0a866.png)
+
 
 
 
 Food Menu Page :-
+![chrome_8wXwO601lr](https://user-images.githubusercontent.com/110100411/204109927-b0c4960f-2b47-40a9-b4df-6ff799bc505c.png)
 
 
 
 Contact Page :-
+
+
+![chrome_EAO919Wj9o](https://user-images.githubusercontent.com/110100411/204109934-cfff51b7-f9d9-44f0-8514-2bd5102460ea.png)
+
 
 
 
